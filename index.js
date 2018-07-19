@@ -33,7 +33,7 @@ let text = "I love the beatles"
   array.push(text)
   ++number
     
-  }  while(i < 15);
+  }  while(number < 15);
   
     
   

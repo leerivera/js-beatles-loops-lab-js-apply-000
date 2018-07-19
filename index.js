@@ -27,7 +27,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
 let array = [];
-let text = "I love the beatles"
+let text = "I love the beatles!"
 
  do {
   array.push(text)

@@ -25,20 +25,20 @@ function johnLennonFacts(facts){
 
 }
 
-//function iLoveTheBeatles(number){
-  //let array = [];
-  //let text = "I love the beatles"
-  //let i = 0
- // do {
- //   array.push[i](text += i; i++;);
+function iLoveTheBeatles(number){
+let array = [];
+let text = "I love the beatles"
+let i = 0
+ do {
+  array.push[i](text += i; i++;);
     
- // }
-  //while(i < 15);
+  }
+  while(i < 15);
     
-  //}
- // return array
+  }
+ return array
   
-//}
+ }
 
 
  
